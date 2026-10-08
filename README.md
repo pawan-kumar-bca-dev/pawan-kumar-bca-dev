@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Pawan Kumar 👋
 
-<!--
-**pawan-kumar-bca-dev/pawan-kumar-bca-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 2nd Year Student  
+💻 Aspiring Software Developer  
+🌱 Currently learning C++, DSA, HTML & CSS
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a BCA 2nd year student interested in software development and problem solving.
+
+I have studied C and Data Structures & Algorithms, and I am currently improving my skills in C++, HTML and CSS.
+
+I enjoy learning programming, practicing problem solving, and building projects to improve my technical skills.
+
+## 🛠️ Skills & Technologies
+
+- C
+- C++
+- Data Structures & Algorithms
+- HTML
+- CSS
+- Git
+- GitHub
+
+## 📚 Currently Learning
+
+- C++
+- Data Structures & Algorithms
+- HTML & CSS
+- Web Development
+
+## 🎯 Goals
+
+- Strengthen my programming fundamentals
+- Improve problem-solving skills
+- Build real-world projects
+- Learn modern web development
+- Prepare for software development opportunities
+
+## 📂 Projects
+
+I am currently learning and building projects.  
+More projects will be added as I continue my learning journey.
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+2nd Year Student
+
+---
+
+⭐ Thanks for visiting my profile!
